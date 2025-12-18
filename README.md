@@ -174,7 +174,7 @@ MONGODB_URI=mongodb+srv://url
 Generate a secure JWT secret:
 
 ```bash
-node -e "console.log(require('crypto').randomBytes(64).toString('hex'))"
+
 ```
 
 ### AI Service Configuration
